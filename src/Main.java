@@ -7,7 +7,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your name");
         String name = sc.nextLine();
-        System.out.println("your name is" + name);
+        System.out.println("your name is" + " " + name);
         System.out.println("Enter Your Password");
         String pass = sc.nextLine();
         System.out.println("submitted");
